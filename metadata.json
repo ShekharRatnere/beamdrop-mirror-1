@@ -1,0 +1,6 @@
+{
+  "name": "BeamDrop Mirror - Secure Offline Android Screen & PDF Mirroring",
+  "description": "Secure, offline, bidirectional screen mirroring and synchronized document reader between Android phone and tablet with zero cloud, QR pairing, and hardware-accelerated streaming.",
+  "requestFramePermissions": ["camera", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
